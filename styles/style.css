@@ -1,0 +1,17 @@
+ a {
+ 	text-decoration: none;
+ }
+
+ body {
+   a
+   color: #0018B4; /* Цвет ссылок */
+   }
+   a:visited {
+    color: #0018B4; /* Цвет посещенных ссылок */
+   }
+   a:active {
+    color: #0018B4; /* Цвет активных ссылок */
+   
+  a {
+  	outline: none;
+  }
